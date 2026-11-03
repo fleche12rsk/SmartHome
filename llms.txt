@@ -1,0 +1,20 @@
+# Casa
+
+> Casa é um painel de casa inteligente para celular e tablet, no estilo do Apple Home. Junta luzes, tomadas, câmeras, TV, Alexa, clima e nível do rio num lugar só. A versão web conversa direto com o Home Assistant da pessoa, sem conta e sem servidor próprio.
+
+## Páginas
+
+- [Apresentação](https://fleche12rsk.github.io/SmartHome/): o que o Casa faz e como instalar no iPhone pela tela de início.
+- [Política de privacidade](https://fleche12rsk.github.io/SmartHome/privacidade/): sem coleta de dados; o endereço e o token do Home Assistant ficam só no aparelho.
+- [Painel](https://fleche12rsk.github.io/SmartHome/app/): o app em si; precisa de um Home Assistant com HTTPS e de um token de acesso de longa duração.
+
+## Como funciona
+
+- Requer o Home Assistant acessível por HTTPS (por exemplo, com `tailscale serve --bg 8123`).
+- Aparelhos, cenas, câmeras, TVs, caixas de som e clima vêm das integrações do Home Assistant.
+- Alexa: usa a integração Alexa Media Player para comandos, anúncios e para mostrar quando um Echo é chamado.
+- Também existe como app Android (APK com atualização automática) e iOS (IPA para instalação lateral).
+
+## Autor
+
+- Mauricio Renato Sarda — https://micio.dev/

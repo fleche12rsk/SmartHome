@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /SmartHome/
+Disallow: /SmartHome/app/
+Sitemap: https://fleche12rsk.github.io/SmartHome/sitemap.xml
