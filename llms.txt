@@ -7,6 +7,7 @@
 - [Apresentação](https://fleche12rsk.github.io/SmartHome/): o que o Casa faz e como instalar no iPhone pela tela de início.
 - [Política de privacidade](https://fleche12rsk.github.io/SmartHome/privacidade/): sem coleta de dados; o endereço e o token do Home Assistant ficam só no aparelho.
 - [APK para Android](https://fleche12rsk.github.io/SmartHome/android/casa.apk): sempre a versão mais nova; o app instalado se atualiza sozinho.
+- [Repositório do Sileo](https://fleche12rsk.github.io/SmartHome/repo/): para iPhone com jailbreak; adicione em Sileo › Fontes e instale o pacote Casa.
 - [Fonte do SideStore](https://fleche12rsk.github.io/SmartHome/ios/source.json): para instalar e atualizar o app no iPhone e iPad.
 - [Painel](https://fleche12rsk.github.io/SmartHome/app/): o app em si; precisa de um Home Assistant com HTTPS e de um token de acesso de longa duração.
 
