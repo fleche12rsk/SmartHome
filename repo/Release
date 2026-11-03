@@ -1,0 +1,16 @@
+Origin: Casa
+Label: Casa
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: App Casa, painel da casa inteligente.
+MD5Sum:
+ 3c89ca48aa64498cb5f5f9639a2fe31a 1414 Packages
+ 93c289c52a02d1b15d289eea6bdce98a 689 Packages.bz2
+ d3bd9f54109adb92416b1b0bb4d681bb 644 Packages.xz
+SHA256:
+ 742b8c67981f5095be9e0f87bb5ff94c8ba7f16e447c0843c11e2fa6f99ee240 1414 Packages
+ 9a4cbc39980d68c2f71777858d10e5f857d28fa4a1c6dab7daa0891f54d22c6f 689 Packages.bz2
+ c1d46c17b42053a3809151e2b73218a6cdd183f306fa524fe84b28cbdb5cd4ea 644 Packages.xz

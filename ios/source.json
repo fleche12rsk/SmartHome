@@ -1,0 +1,43 @@
+{
+  "name": "Casa",
+  "identifier": "dev.micio.casa.source",
+  "subtitle": "Versões do app Casa para iPhone e iPad",
+  "website": "https://fleche12rsk.github.io/SmartHome/",
+  "iconURL": "https://fleche12rsk.github.io/SmartHome/icons/icon-512.png",
+  "tintColor": "#F2A65A",
+  "apps": [
+    {
+      "name": "Casa",
+      "bundleIdentifier": "dev.micio.casa",
+      "developerName": "Mauricio Renato Sarda",
+      "subtitle": "A casa inteira num painel só",
+      "localizedDescription": "Painel da casa inteligente: luzes, tomadas, câmeras, TV, Alexa, clima e nível do rio num lugar só. Sem conta e sem coleta de dados.",
+      "iconURL": "https://fleche12rsk.github.io/SmartHome/icons/icon-512.png",
+      "tintColor": "#F2A65A",
+      "category": "lifestyle",
+      "version": "1.0.112",
+      "versionDate": "2026-11-03T22:45:50Z",
+      "versionDescription": "Primeira versão publicada: visual grafite, luz da Alexa, TVs LG/Samsung/Roku e código para levar a configuração a outro aparelho.",
+      "downloadURL": "https://fleche12rsk.github.io/SmartHome/ios/casa-1.0.112.ipa",
+      "size": 29080723,
+      "versions": [
+        {
+          "version": "1.0.112",
+          "buildVersion": "112",
+          "date": "2026-11-03T22:45:50Z",
+          "localizedDescription": "Primeira versão publicada: visual grafite, luz da Alexa, TVs LG/Samsung/Roku e código para levar a configuração a outro aparelho.",
+          "downloadURL": "https://fleche12rsk.github.io/SmartHome/ios/casa-1.0.112.ipa",
+          "size": 29080723,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Falar com a TV, as câmeras e o Home Assistant na rede de casa."
+        }
+      }
+    }
+  ],
+  "news": []
+}
