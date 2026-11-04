@@ -34,3 +34,39 @@ Depiction: https://fleche12rsk.github.io/SmartHome/
 Icon: https://fleche12rsk.github.io/SmartHome/icons/icon-192.png
 Name: Casa
 
+Package: dev.micio.casa
+Version: 1.0.113
+Architecture: iphoneos-arm64
+Maintainer: Mauricio Renato Sarda
+Depends: firmware (>= 15.0)
+Filename: debs/dev.micio.casa_1.0.113_iphoneos-arm64.deb
+Size: 20836072
+MD5sum: 3bd2fccfa8bbc235b471b85f50dccba0
+SHA1: f8640141efa03a57d2a7e6ac8d6c74e73d8163b3
+SHA256: 4c636537b1b8c8482874ff4db3b9a98cdc8af6d141e2993790d10699c2f18769
+Section: Utilities
+Homepage: https://fleche12rsk.github.io/SmartHome/
+Description: Painel da casa inteligente: luzes, tomadas, câmeras, TV, Alexa, clima e nível do rio num lugar só.
+Author: Mauricio Renato Sarda
+Depiction: https://fleche12rsk.github.io/SmartHome/
+Icon: https://fleche12rsk.github.io/SmartHome/icons/icon-192.png
+Name: Casa
+
+Package: dev.micio.casa
+Version: 1.0.113
+Architecture: iphoneos-arm
+Maintainer: Mauricio Renato Sarda
+Depends: firmware (>= 15.0)
+Filename: debs/dev.micio.casa_1.0.113_iphoneos-arm.deb
+Size: 20818260
+MD5sum: 4793f8f788452df2eded5fd7ae387634
+SHA1: c3ace186c214bc14d85a1b8f28ce4ded695a7a7e
+SHA256: 2aa18adf6f35367de24eab415c5bd0093ecbb9d1a3ef2c5d1bb5865d53c832d2
+Section: Utilities
+Homepage: https://fleche12rsk.github.io/SmartHome/
+Description: Painel da casa inteligente: luzes, tomadas, câmeras, TV, Alexa, clima e nível do rio num lugar só.
+Author: Mauricio Renato Sarda
+Depiction: https://fleche12rsk.github.io/SmartHome/
+Icon: https://fleche12rsk.github.io/SmartHome/icons/icon-192.png
+Name: Casa
+
